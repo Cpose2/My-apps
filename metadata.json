@@ -1,0 +1,5 @@
+{
+  "name": "Convertidor de Sistemas Numéricos",
+  "description": "Una aplicación web para convertir números decimales a binario, hexadecimal u octal, con una explicación didáctica paso a paso.",
+  "requestFramePermissions": []
+}
